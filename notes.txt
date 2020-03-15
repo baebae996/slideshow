@@ -1,8 +1,0 @@
-布局思路：
-放一个固定宽度和高度的div，相对定位，overflow:hidden
-div里面放一个自适应宽度+固定高度的ul，绝对定位
-ul里面放若干个li，并设置li为左浮动
-图片滚动依靠ul整体向左移动（改变left的值）来实现
-其实我还在学git
-creating a new branch is quick.
-but it's gonna be a long process.
